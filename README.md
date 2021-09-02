@@ -25,7 +25,7 @@ Implantar galeria de imagens detalhadas individuas das obras de forma dinâmica.
 Melhor estetica do formulário e implementar o backend do mesmo.
 Fazer uma refatoração cosmetica de todo o site, oferecendo melhorias esteticas no geral.
 
-https://galeria-paral-ac.netlify.app/
+https://cpcr-vue-ac.netlify.app/
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
