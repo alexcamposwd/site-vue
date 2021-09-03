@@ -11,7 +11,7 @@ Obs: Projeto ainda em desenvolvimento.
 
 - O desenvolvimento do site serviu de apoio de estudo iniciais do Vue.JS e todas suas dependências.
 - O foco do estudo foi desenvolvimento da estrutura, componentes, rotas, views.
-- Desenvolvimento e consumo de Api própria para usufluir das dinâmicas que o Vue oferece. Utilizei o Json-Server e Axios.
+- Desenvolvimento e consumo de Api própria para usufruir das dinâmicas que o Vue oferece. Utilizei o Json-Server e Axios.
 - O projeto foi editado no Visual Studio Code.
 - Deploy Netlify.
 
@@ -22,8 +22,8 @@ Obs: Projeto ainda em desenvolvimento.
 
 ### Analise crítica:
 Implantar galeria de imagens detalhadas individuas das obras de forma dinâmica.
-Melhor estetica do formulário e implementar o backend do mesmo.
-Fazer uma refatoração cosmetica de todo o site, oferecendo melhorias esteticas no geral.
+Melhor estética do formulário e implementar o backend do mesmo.
+Fazer uma refatoração cosmética de todo o site, oferecendo melhorias estéticas no geral.
 
 https://cpcr-vue-ac.netlify.app/
 
@@ -33,9 +33,9 @@ https://cpcr-vue-ac.netlify.app/
 Projeto Inserido ao Portfólio:<br/>
 [![alexcamposwd]( https://img.shields.io/badge/-alexcamposwd-blue )](https://alexcamposwd.netlify.app/)
 
-![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-) ![Javascript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white )
+![Javascript]( https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Vue.JS]( https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
 ![GIT]( https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VSCode]( https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
