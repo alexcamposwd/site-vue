@@ -4,8 +4,8 @@
 
 ### Projeto - Site Institucional da CPCR - Construções.
 
-O projeto é um site institucional da empresa de construção civil que serve para mostrar seu portfólio de obras executadas.
-Obs: Projeto ainda em desenvolvimento.
+O projeto é um site institucional da empresa de construção civil que serve para mostrar seu portfólio de obras executadas.<br />
+Obs.: Projeto ainda em desenvolvimento.
 
 ### Características:
 
@@ -21,9 +21,9 @@ Obs: Projeto ainda em desenvolvimento.
 - Deploy do projeto.
 
 ### Analise crítica:
-Implantar galeria de imagens detalhadas individuas das obras de forma dinâmica.
-Melhor estética do formulário e implementar o backend do mesmo.
-Fazer uma refatoração cosmética de todo o site, oferecendo melhorias estéticas no geral.
+Implantar galeria de imagens detalhadas individuas das obras de forma dinâmica.<br />
+Melhor estética do formulário e implementar o backend do mesmo.<br />
+Fazer uma refatoração cosmética de todo o site, oferecendo melhorias estéticas no geral.<br />
 
 https://cpcr-vue-ac.netlify.app/
 
