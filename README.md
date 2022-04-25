@@ -25,7 +25,7 @@ Implantar galeria de imagens detalhadas individuas das obras de forma dinâmica.
 Melhor estética do formulário e implementar o backend do mesmo.<br />
 Fazer uma refatoração cosmética de todo o site, oferecendo melhorias estéticas no geral.<br />
 
-[Demo](https://cpcr-vue-ac.netlify.app/)
+##[Demo](https://cpcr-vue-ac.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
